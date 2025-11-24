@@ -1,6 +1,6 @@
-# Chainsaw Allocation and Software Complexity
-
 ![Chainsaw Juggler](assets/chainsaw_juggler.jpg)
+
+# Chainsaw Allocation and Software Complexity
 
 ## 1. Chainsaw Allocation
 
